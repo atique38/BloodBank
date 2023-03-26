@@ -2,6 +2,7 @@ package com.android.iunoob.bloodbank.activities;
 
 public class GetterSetter {
     String roll,bloodGroup;
+    
 
     public GetterSetter(String roll, String bloodGroup) {
         this.roll = roll;
